@@ -1,0 +1,11 @@
+C:\Users\rubensm\Desktop\Rubens\Estudos\DDDIonic\YouLearn\YouLearn.Domain\bin\Debug\netcoreapp2.0\YouLearn.Domain.deps.json
+C:\Users\rubensm\Desktop\Rubens\Estudos\DDDIonic\YouLearn\YouLearn.Domain\bin\Debug\netcoreapp2.0\YouLearn.Domain.dll
+C:\Users\rubensm\Desktop\Rubens\Estudos\DDDIonic\YouLearn\YouLearn.Domain\bin\Debug\netcoreapp2.0\YouLearn.Domain.pdb
+C:\Users\rubensm\Desktop\Rubens\Estudos\DDDIonic\YouLearn\YouLearn.Domain\obj\Debug\netcoreapp2.0\YouLearn.Domain.csprojAssemblyReference.cache
+C:\Users\rubensm\Desktop\Rubens\Estudos\DDDIonic\YouLearn\YouLearn.Domain\obj\Debug\netcoreapp2.0\YouLearn.Domain.Resources.MSG.resources
+C:\Users\rubensm\Desktop\Rubens\Estudos\DDDIonic\YouLearn\YouLearn.Domain\obj\Debug\netcoreapp2.0\YouLearn.Domain.csproj.GenerateResource.cache
+C:\Users\rubensm\Desktop\Rubens\Estudos\DDDIonic\YouLearn\YouLearn.Domain\obj\Debug\netcoreapp2.0\YouLearn.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rubensm\Desktop\Rubens\Estudos\DDDIonic\YouLearn\YouLearn.Domain\obj\Debug\netcoreapp2.0\YouLearn.Domain.AssemblyInfoInputs.cache
+C:\Users\rubensm\Desktop\Rubens\Estudos\DDDIonic\YouLearn\YouLearn.Domain\obj\Debug\netcoreapp2.0\YouLearn.Domain.AssemblyInfo.cs
+C:\Users\rubensm\Desktop\Rubens\Estudos\DDDIonic\YouLearn\YouLearn.Domain\obj\Debug\netcoreapp2.0\YouLearn.Domain.dll
+C:\Users\rubensm\Desktop\Rubens\Estudos\DDDIonic\YouLearn\YouLearn.Domain\obj\Debug\netcoreapp2.0\YouLearn.Domain.pdb
